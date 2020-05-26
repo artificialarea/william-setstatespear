@@ -1,6 +1,6 @@
 # William Setstatespear
 
-This is a sample project used for education of React Router.
+This is a sample project used for education of React Router: https://courses.thinkful.com/react-v1/checkpoint/14#making-routes-dynamic
 
 The code is organised into different branches which have progressively more complexity.
 
