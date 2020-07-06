@@ -3,7 +3,7 @@ import POEMS from './poems'
 
 export default function PoemPage(props) {
   const poem = POEMS.find(p =>
-    p.id === props.match.params.poemId
+    p.id === props.match.params.poemId  // ** crucial 'route props' **
   )
   return (
     <article className='Poem'>

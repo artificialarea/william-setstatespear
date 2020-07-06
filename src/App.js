@@ -22,7 +22,7 @@ class App extends Component {
           <Route 
             path='/poem/:poemId'
             component={PoemPage}
-            // component={(props) => {
+            // component={(props) => {  // to see all the inherent props associated with a Router component
             //   console.log(props.match)
             //   return <div />
             // }}
